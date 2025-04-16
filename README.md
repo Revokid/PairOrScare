@@ -1,4 +1,4 @@
-##Pair_Or_Scare
+Pair_Or_Scare
 ---
 
 ## 🚀 How to Run
